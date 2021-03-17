@@ -3,4 +3,8 @@
 </h1>
 <h2 align="center">⚛️ Trilha ReactJS</h2>
 <h3 align="center">Desafio 02 |  Componentizando a Aplicação</h3>
-<p align="center">O desafio consistia em dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.</p>
+<p align="center"><b>Desafio:</b> Dividir uma aplicação em componentes afim de isolar as responsabilidades e facilitar a manutenção do código.</p>
+
+<p align="center">
+<img src="https://github.com/narelo/Desafio02-Trilha-ReactJS/blob/main/demo.gif?raw=true" alt="watchme">
+</p>
