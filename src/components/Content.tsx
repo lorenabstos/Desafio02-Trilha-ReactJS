@@ -23,7 +23,7 @@ export function Content({
   return ( //code -> App.tsx
     <div className="container">
       <header>
-        <span className="category">Categoria:<span>{selectedGenre.title}</span></span>
+        <span className="category">Categoria: <span>{selectedGenre.title}</span></span>
       </header>
 
       <main>
